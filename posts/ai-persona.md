@@ -1,7 +1,38 @@
 ---
 title: "AI Persona: Menuju AI yang Berperilaku Natural Seperti Manusia"
+slug: "ai-persona-natural-behavior"
 date: "2025-12-12"
-tags: ["AI Persona", "Natural Interaction", "LLM", "Conversational AI"]
+updated: "2025-12-12"
+
+# — Author Info —
+author:
+  username: "Fahmi-XD"
+  name: "Fahmi XD"
+  role: "AI Engineer & Fullstack Developer"
+  avatar: "https://avatars.githubusercontent.com/u/205189488?s=400&u=b9dd000f257182fa3aad15204d5e11af33175c2e&v=4"
+  social:
+    github: "https://github.com/fahmi-xd"
+    website: "https://syntxflow.my.id"
+
+# — Article Meta —
+description: "Eksplorasi bagaimana AI persona modern berusaha meniru perilaku manusia melalui pemodelan percakapan natural."
+tags:
+  - AI Persona
+  - Natural Interaction
+  - LLM
+  - Conversational AI
+readingTime: 7 # menit
+cover:
+  image: "http://i.pinimg.com/1200x/95/95/c2/9595c2aeb141c79ff590298e80cb4e4a.jpg"
+  alt: "Illustration of natural conversational AI"
+  blur: true
+
+# — Advance Features —
+featured: true 
+draft: false
+seo:
+  keywords: ["AI Persona", "Natural AI", "Human-like AI", "LLM Interaction"]
+  canonical: "https://syntxflow.com/blog/ai-persona-natural-behavior"
 ---
 
 # AI Persona: Menuju AI yang Berperilaku Natural Seperti Manusia
