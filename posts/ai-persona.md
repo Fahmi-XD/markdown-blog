@@ -30,7 +30,7 @@ cover:
 
 # — Advance Features —
 featured: true 
-draft: true
+draft: false
 seo:
   keywords: ["AI Persona", "Natural AI", "Human-like AI", "LLM Interaction"]
   canonical: "https://syntxflow.com/blog/ai-persona-natural-behavior"
