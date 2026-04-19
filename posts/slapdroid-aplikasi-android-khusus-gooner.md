@@ -24,7 +24,7 @@ tags:
   - Open Source
 readingTime: 4 # menit
 cover:
-  image: "cover nanti saya tambahkan manual"
+  image: "https://i.pinimg.com/736x/d8/4c/fa/d84cfade6f6eef7856fc4899a9ab6c34.jpg"
   alt: "Preview aplikasi SlapDroid"
   blur: true
 
