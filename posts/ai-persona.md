@@ -26,7 +26,7 @@ cover:
   image: "https://i.pinimg.com/1200x/95/95/c2/9595c2aeb141c79ff590298e80cb4e4a.jpg"
   alt: "Illustration of natural conversational AI"
   blur: true
-  mini: false
+  mini: true
 
 # — Advance Features —
 featured: true 
