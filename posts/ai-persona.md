@@ -8,10 +8,10 @@ updated: "2025-12-12"
 author:
   username: "Fahmi-XD"
   name: "Fahmi XD"
-  role: "AI Engineer & Fullstack Developer"
+  role: "Vibe Coder & Fullstack Developer"
   avatar: "https://avatars.githubusercontent.com/u/205189488?s=400&u=b9dd000f257182fa3aad15204d5e11af33175c2e&v=4"
   social:
-    github: "https://github.com/fahmi-xd"
+    github: "https://github.com/Fahmi-XD"
     website: "https://syntxflow.my.id"
 
 # — Article Meta —
@@ -29,7 +29,7 @@ cover:
 
 # — Advance Features —
 featured: true 
-draft: false
+draft: true
 seo:
   keywords: ["AI Persona", "Natural AI", "Human-like AI", "LLM Interaction"]
   canonical: "https://syntxflow.com/blog/ai-persona-natural-behavior"
