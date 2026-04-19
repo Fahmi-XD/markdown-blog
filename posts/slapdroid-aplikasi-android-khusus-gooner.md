@@ -27,6 +27,7 @@ cover:
   image: "https://i.pinimg.com/736x/d8/4c/fa/d84cfade6f6eef7856fc4899a9ab6c34.jpg"
   alt: "Preview aplikasi SlapDroid"
   blur: true
+  mini: true
 
 # — Advance Features —
 featured: true 
